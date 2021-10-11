@@ -1,0 +1,8 @@
+
+
+git remote remove origin
+
+master / main 
+branch - indepent path of development 
+
+branching and merging 
